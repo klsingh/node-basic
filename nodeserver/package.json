@@ -1,10 +1,11 @@
 {
-  "name": "node",
+  "name": "nodeserver",
   "version": "1.0.0",
-  "description": "node basic tutorial",
+  "description": "server creation",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
   },
   "repository": {
     "type": "git",
@@ -15,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/klsingh/node-basic/issues"
   },
-  "homepage": "https://github.com/klsingh/node-basic#readme",
-  "dependencies": {
-    "superheroes": "^3.0.0"
-  }
+  "homepage": "https://github.com/klsingh/node-basic#readme"
 }
