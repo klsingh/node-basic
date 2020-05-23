@@ -1,0 +1,19 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "node basic tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klsingh/node-basic.git"
+  },
+  "author": "klsingh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klsingh/node-basic/issues"
+  },
+  "homepage": "https://github.com/klsingh/node-basic#readme"
+}
