@@ -1,2 +1,2 @@
 # Node-Basic
-Basics of Node.js
+Created a server (localhost) and using node.js and displayed a simple html page.
